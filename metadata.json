@@ -1,0 +1,6 @@
+{
+  "name": "FF Diamonds",
+  "description": "Earn FF diamonds with daily challenges, real ads, captcha tasks, referral bonuses, and secure UID withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
